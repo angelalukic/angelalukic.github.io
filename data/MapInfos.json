@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Ship","order":2,"parentId":12,"scrollX":1482,"scrollY":965},
+{"id":2,"expanded":true,"name":"Room 1 - Kitchen","order":3,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":3,"expanded":true,"name":"Room 2 - Corridor","order":4,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":4,"expanded":false,"name":"Room 3 - Corridor 2","order":6,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":5,"expanded":false,"name":"Room 4 - Drinking Area","order":7,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":6,"expanded":false,"name":"Room 5 - Bedroom","order":8,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":7,"expanded":false,"name":"Room 6 - Mid Point","order":9,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":8,"expanded":true,"name":"Room 7 - Corridor 3","order":10,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":9,"expanded":true,"name":"Room 9 - Captains Room","order":12,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":10,"expanded":false,"name":"Room 10 - Dining Room","order":5,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":11,"expanded":false,"name":"Room 8 - Storage Room","order":11,"parentId":1,"scrollX":819,"scrollY":481},
+{"id":12,"expanded":true,"name":"Opening Cutscene","order":1,"parentId":0,"scrollX":819,"scrollY":481}
+]
