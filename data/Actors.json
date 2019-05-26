@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"LirystaBattler2","characterIndex":0,"characterName":"Lirysta2","classId":1,"equips":[1,1,1],"faceIndex":0,"faceName":"Lirysta","traits":[{"code":43,"dataId":15,"value":1}],"initialLevel":3,"maxLevel":10,"name":"???","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"LirystaBattler2","characterIndex":0,"characterName":"Lirysta2","classId":1,"equips":[1,6,1],"faceIndex":0,"faceName":"Lirysta","traits":[{"code":43,"dataId":15,"value":1}],"initialLevel":3,"maxLevel":10,"name":"???","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"RyffBattler","characterIndex":0,"characterName":"Ryff","classId":2,"equips":[5,8,3],"faceIndex":1,"faceName":"Ryff","traits":[{"code":43,"dataId":8,"value":1},{"code":43,"dataId":10,"value":1},{"code":43,"dataId":11,"value":1}],"initialLevel":10,"maxLevel":15,"name":"Ryff","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Katzu3Battler","characterIndex":0,"characterName":"Katzu3","classId":3,"equips":[3,9,4],"faceIndex":2,"faceName":"Katzu","traits":[{"code":43,"dataId":14,"value":1}],"initialLevel":3,"maxLevel":10,"name":"Katzu","nickname":"","note":"","profile":""}
 ]
